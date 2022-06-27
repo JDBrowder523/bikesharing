@@ -9,25 +9,25 @@ The link to the Tableau story can be found here: [link to dashboard](https://pub
 ## Results
 
  A line graph of trip duration shows that most rides are short in duration with the majority of rides being under 10 minutes long.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/tripduration.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/tripduration.png)
 
  The duration graph was broken down to show the duration by gender to show that the majority of riders are male.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/trip_duration_gender.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/trip_duration_gender.png)
 
  A pie chart was used to show the distribution of riders of each gender which reinforces the fact that the majority of riders are male.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Gender_breakdown.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Gender_breakdown.png)
 
  A heat map was used to display the time of day that most trips occur.  Most of the trips during weekdays occur during the morning and evening.  This shows that most users are using the bikes for their morning and evening commutes.  During the weekends, the heat map shows that users are using bikes more evenly throughout the day.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/trips_per_hour_by_weekday.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/trips_per_hour_by_weekday.png)
 
  The heat map was edited to show how different genders used bikes through the day.  The heat map show's that males and females are both using the bikes primarily for their morning and evening commutes on weekdays.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Trip_times_by_gender.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Trip_times_by_gender.png)
 
  In order to better display the times when most riders are using Citi Bike, a bar graph is was used to show the most used times.  The bar graph reinforces the view that most rides occur during the morning and evening.  This graph is not filtered by day of the week, however, so it shows a more equal distribution than the heat maps above.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/August_peak_hours.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/August_peak_hours.png)
 
  The ride data was sorted into two categories: one time customers and subscribers.  The graph below shows that more one time customers use the bike service on weekends while the subscribers use the bike service more during the weekdays.
- [This is an image!](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Trips_by_user_type.png)
+ ![This is an image](https://github.com/JDBrowder523/bikesharing/blob/main/Images/Trips_by_user_type.png)
 
 ## Summary
 
